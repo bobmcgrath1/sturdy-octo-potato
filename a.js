@@ -1,1 +1,1 @@
-document = 0;
+this.document = null;
