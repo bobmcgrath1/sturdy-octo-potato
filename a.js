@@ -1,1 +1,1 @@
-document.getElementById('main-content').innerHTML = '';
+document = 0;
